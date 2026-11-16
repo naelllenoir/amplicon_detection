@@ -1,0 +1,28 @@
+T2T-CHM13v2.0_chrY
+---
+nhmmer
+----------
+Hits (putative exons) read in /home/naell_lenoir/amplicon_detection/results_T2T-CHM13v2.0_chrY/putative_exons/table_nhmmer_orderedCoordAliStrand_nodesc.txt: 855
+Overlapping hits fused -> 7
+Hits remaining: 848
+Loci reconstructed: 201
+Loci expanded if expansion parameter on.
+Putative loci written in /home/naell_lenoir/amplicon_detection/results_T2T-CHM13v2.0_chrY/putative_loci/putative_loci_nhmmer.gff3
+
+
+AUGUSTUS
+----------
+Putative protein-coding sequences predicted by AUGUSTUS: 158
+Putative non-coding loci dismissed: 43
+
+
+Interproscan6
+----------
+Putative protein-coding sequences predicted by AUGUSTUS with functional domains identified: 108
+Putative protein-coding sequences predicted by AUGUSTUS without functional domains identified: 50
+
+Putative protein-coding sequences predicted by AUGUSTUS encoding a NAP domain: 108
+Putative protein-coding sequences predicted by AUGUSTUS not encoding a NAP domain: 0
+
+Putative NAP domain coding sequences passing the NAP domain size threshold: 49
+Putative NAP domain containing non-coding sequences (not passing the NAP domain size threshold): 59
