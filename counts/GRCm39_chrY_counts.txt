@@ -1,0 +1,10 @@
+GRCm39_chrY
+---
+nhmmer
+----------
+Hits (putative exons) read in /home/naell_lenoir/amplicon_detection/results_GRCm39_chrY/putative_exons/table_nhmmer_orderedCoordAliStrand_nodesc.txt: 13
+Overlapping hits fused -> 0
+Hits remaining: 13
+Loci reconstructed: 9
+Loci expanded if expansion parameter on.
+Putative loci written in /home/naell_lenoir/amplicon_detection/results_GRCm39_chrY/putative_loci/putative_loci_nhmmer.gff3

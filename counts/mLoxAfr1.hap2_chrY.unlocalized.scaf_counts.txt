@@ -1,0 +1,10 @@
+mLoxAfr1.hap2_chrY.unlocalized.scaf
+---
+nhmmer
+----------
+Hits (putative exons) read in /home/naell_lenoir/amplicon_detection/results_mLoxAfr1.hap2_chrY_unloc/putative_exons/table_nhmmer_orderedCoordAliStrand_nodesc.txt: 31
+Overlapping hits fused -> 0
+Hits remaining: 31
+Loci reconstructed: 26
+Loci expanded if expansion parameter on.
+Putative loci written in /home/naell_lenoir/amplicon_detection/results_mLoxAfr1.hap2_chrY_unloc/putative_loci/putative_loci_nhmmer.gff3
