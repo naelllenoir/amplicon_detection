@@ -1,0 +1,12 @@
+# Ignore all pipeline intermediate files and directories
+*/hmm_profile/
+*/putative_exons/
+*/putative_loci/
+*/augustus_predictions/
+*/functional_domains/
+*/structure/
+*/detection_pipeline.log
+
+
+# Do not ignore counts.txt files
+!*_counts.txt
