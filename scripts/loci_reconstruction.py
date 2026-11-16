@@ -243,17 +243,19 @@ def build_loci(hits: List[Hit], max_size: Optional[int] = None) -> List[Locus]:
 
 
 def conditional_expansion(loci: List[Locus], expansion: Optional[int] = None) -> List[Locus]:
-    
+
     if expansion is None:
         return loci
-    
-    sorted_loci = sorted(loci, key=lambda locus: (locus.target, locus.start))
+
+    sorted_loci = sorted(loci, key=lambda locus: (locus.target, locus.strand, locus.start))
     for locus in sorted_loci:
         locus.extstart = locus.start - expansion
         locus.extend = locus.end + expansion
 
-    for prev, current in zip(sorted_loci, sorted_loci[1:]):     
+    for prev, current in zip(sorted_loci, sorted_loci[1:]):
         if prev.target != current.target:
+            continue
+        if prev.strand != current.strand:
             continue
         if prev.extend < current.extstart:
             continue
