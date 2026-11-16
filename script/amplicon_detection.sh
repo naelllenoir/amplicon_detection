@@ -169,9 +169,9 @@ annot_filter(){
 }
 
 struct_json(){
-	for loc in $(grep '>' size_filtered_augustus_annotation.aa); do
+	for loc in $(grep '>' size_filtered_nap_proteins.aa); do
 		seqname=${loc:1}
-		seq=$(awk -v loc=$seqname '$0 == ">"loc {getline;print}' size_filtered_augustus_annotation.aa)
+		seq=$(awk -v loc=$seqname '$0 == ">"loc {getline;print}' size_filtered_nap_proteins.aa)
 		basenom=$(basename "$OUT_DIR")
 		output=$(echo ${seqname} | grep -oE 'locus_[0-9]+\(\+\)\.g[0-9]+\.t[0-9]+')
 		echo -e '{\n  "name": "'${seqname}'",\n  "sequences": [\n    {\n      "protein": {\n        "id": "A",\n        "sequence": "'${seq}'",\n        "description": "'${seqname}'"\n      }\n    }\n  ],\n  "modelSeeds": [63],\n  "dialect": "alphafold3",\n  "version": 4\n}' > ${OUT_DIR}/structure/json_files/${basenom}_${output}.json
