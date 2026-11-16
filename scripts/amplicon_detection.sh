@@ -132,6 +132,7 @@ putative_exons(){
 # Option to add: additional gff3 output file - default output file should be changed to BED
 putative_loci(){
 	echo -e "Reconstructing putative loci...\n" >> "${LOG}"
+	echo -e "$(basename ${CHR%.*})\n---" >> "${NB}"
 	python3 ~/amplicon_detection/scripts/loci_reconstruction.py -i ${OUT_DIR}/putative_exons/table_nhmmer_orderedCoordAliStrand_nodesc.txt -o ${OUT_DIR}/putative_loci/putative_loci_nhmmer.gff3 -e 1000 -m 10000 >> "${NB}"
         grep "putative_locus_expanded" ${OUT_DIR}/putative_loci/putative_loci_nhmmer.gff3 | awk -F'\t' 'BEGIN{OFS="\t"}{ match($9,/ID=([^;]+)/,id); print $1,$4-1,$5,id[1],".",$7}' > ${OUT_DIR}/putative_loci/putative_loci_nhmmer_expanded.bed
 }
@@ -141,7 +142,7 @@ seq_prediction(){
 	bedtools getfasta -fi ${CHR} -fo  ${OUT_DIR}/putative_loci/putative_loci_nhmmer_expanded.fasta -bed ${OUT_DIR}/putative_loci/putative_loci_nhmmer_expanded.bed -s -nameOnly
 	startAlign.pl --genome=${OUT_DIR}/putative_loci/putative_loci_nhmmer_expanded.fasta --prot=${HINT} --prg=exonerate
 	align2hints.pl --in=align_exonerate/exonerate.concat.aln --out=prot.hints --prg=exonerate --genome_file=${OUT_DIR}/putative_loci/putative_loci_nhmmer_expanded.fasta
-	augustus --species=human --extrinsicCfgFile= ~/amplicon_detection/scripts/extrinsic.MP.cfg --hintsfile=prot.hints --uniqueGeneId=true --alternatives-from-evidence=false --softmasking=off --codingseq=on --protein=on ${OUT_DIR}/putative_loci/putative_loci_nhmmer_expanded.fasta > augustus_protein_hints_putative_loci_nhmmer_expanded.gff
+	augustus --species=human --extrinsicCfgFile=~/amplicon_detection/scripts/extrinsic.MP.cfg --hintsfile=prot.hints --uniqueGeneId=true --alternatives-from-evidence=false --softmasking=off --codingseq=on --protein=on ${OUT_DIR}/putative_loci/putative_loci_nhmmer_expanded.fasta > augustus_protein_hints_putative_loci_nhmmer_expanded.gff
 	getAnnoFasta.pl augustus_protein_hints_putative_loci_nhmmer_expanded.gff
 	awk '/^>/ {if (seq) print seq; print; seq=""} /^[^>]/ {seq=seq $0} END {print seq}' augustus_protein_hints_putative_loci_nhmmer_expanded.aa > augustus_protein_hints_putative_loci_nhmmer_expanded_oneliner.aa
 	grep -v "#" augustus_protein_hints_putative_loci_nhmmer_expanded.gff | grep -w "gene" > augustus_protein_hints_putative_loci_nhmmer_expanded_gene.gff
@@ -172,9 +173,8 @@ struct_json(){
 	for loc in $(grep '>' size_filtered_nap_proteins.aa); do
 		seqname=${loc:1}
 		seq=$(awk -v loc=$seqname '$0 == ">"loc {getline;print}' size_filtered_nap_proteins.aa)
-		basenom=$(basename "$OUT_DIR")
-		output=$(echo ${seqname} | grep -oE 'locus_[0-9]+\(\+\)\.g[0-9]+\.t[0-9]+')
-		echo -e '{\n  "name": "'${seqname}'",\n  "sequences": [\n    {\n      "protein": {\n        "id": "A",\n        "sequence": "'${seq}'",\n        "description": "'${seqname}'"\n      }\n    }\n  ],\n  "modelSeeds": [63],\n  "dialect": "alphafold3",\n  "version": 4\n}' > ${OUT_DIR}/structure/json_files/${basenom}_${output}.json
+		output=$(echo ${seqname} | grep -oE 'locus_[0-9]+\([+-]\)\.g[0-9]+\.t[0-9]+')
+		echo -e '{\n  "name": "'${seqname}'",\n  "sequences": [\n    {\n      "protein": {\n        "id": "A",\n        "sequence": "'${seq}'",\n        "description": "'${seqname}'"\n      }\n    }\n  ],\n  "modelSeeds": [63],\n  "dialect": "alphafold3",\n  "version": 4\n}' > ${OUT_DIR}/structure/json_files/"$(basename ${CHR%.*})"_${output}.json
 	done
 }
 
@@ -197,7 +197,7 @@ main(){
 	checkArgs
 	mkdir -p "${OUT_DIR}"
 	cd "${OUT_DIR}"
-	NB="${OUT_DIR}"/"${CHR%.*}"_counts.txt
+	NB="${OUT_DIR}"/"$(basename ${CHR%.*})"_counts.txt
 	LOG="${OUT_DIR}"/detection_pipeline.log
         mkdir -p "${OUT_DIR}"/hmm_profile
         cd "${OUT_DIR}"/hmm_profile
