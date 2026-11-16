@@ -197,7 +197,7 @@ main(){
 	checkArgs
 	mkdir -p "${OUT_DIR}"
 	cd "${OUT_DIR}"
-	NB="${OUT_DIR}"/counts.txt
+	NB="${OUT_DIR}"/"${CHR%.*}"_counts.txt
 	LOG="${OUT_DIR}"/detection_pipeline.log
         mkdir -p "${OUT_DIR}"/hmm_profile
         cd "${OUT_DIR}"/hmm_profile
