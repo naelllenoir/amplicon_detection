@@ -1,4 +1,5 @@
 # Ignore all pipeline intermediate files and directories
+.gitconfig
 nohup.out
 **/hmm_profile/
 **/putative_exons/
