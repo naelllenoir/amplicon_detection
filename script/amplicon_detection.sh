@@ -1,5 +1,4 @@
 #!/usr/bin/bash
-# pipeline_y_detection_splittedextension.sh
 
 set -Eeo pipefail
 trap 'echo [ERROR] Error on $0 line $LINENO with the exit code $? >&2' ERR
@@ -163,9 +162,10 @@ annot_filter(){
 	grep -e "IPR002164\|IPR037231" augustus_protein_hints_putative_loci_nhmmer_expanded_oneliner.aa.tsv | cut -f1 | sort | uniq | xargs -I{} grep -A1 {} ${OUT_DIR}/augustus_predictions/augustus_protein_hints_putative_loci_nhmmer_expanded_oneliner.aa > augustus_protein_hints_putative_loci_nhmmer_expanded_filt_annotation.aa
 	grep '>' augustus_protein_hints_putative_loci_nhmmer_expanded_filt_annotation.aa | cut -d'>' -f2 | cut -d'(' -f1 | sort -t _ -k2 -g | xargs -I{} grep -w {} ${OUT_DIR}/putative_loci/putative_loci_nhmmer_expanded.bed > nap_loci.bed
 	grep -oe 'locus_[0-9]*' nap_loci.bed | xargs -I{} grep -w {} ${OUT_DIR}/augustus_predictions/augustus_predicted_sequences.gff3  | awk '{len=$5-$4+1} {print $0";length="len}' > nap_loci.gff3
-	awk -v min=120 'BEGIN {seqname=""; seq=""} /^>/ { if (seqname != "" && length(seq) >= min) { print seqname"\n"seq } seqname=$0; seq=""; next } {seq=seq$0} END {if(seqname && length(seq) >= min){print seqname"\n"seq}}' augustus_protein_hints_putative_loci_nhmmer_expanded_filt_annotation.aa > size_filtered_augustus_annotation.aa
+	grep "SUPERFAMILY" augustus_protein_hints_putative_loci_nhmmer_expanded_oneliner.aa.gff3 | awk -v min=120 '{start=$4; end=$5; size=end-start} { if (size>=min) {print $0,"size="size} }' | cut -d'.' -f1,2 | xargs -I{} grep -w {} ${OUT_DIR}/augustus_predictions/augustus_predicted_sequences.gff3 > size_filtered_nap_proteins.gff3
+	cut -f9 size_filtered_nap_proteins.gff3 | xargs -I{} grep -A1 -w {} augustus_protein_hints_putative_loci_nhmmer_expanded_filt_annotation.aa > size_filtered_nap_proteins.aa
 	awk 'BEGIN {dism=ARGV[2]-ARGV[1]; print "\nPutative protein-coding sequences predicted by AUGUSTUS encoding a NAP domain:", ARGV[1]"\nPutative protein-coding sequences predicted by AUGUSTUS not encoding a NAP domain:", dism}' "$(grep '>' augustus_protein_hints_putative_loci_nhmmer_expanded_filt_annotation.aa | wc -l)" "$(cut -f1 augustus_protein_hints_putative_loci_nhmmer_expanded_oneliner.aa.tsv | sort | uniq | wc -l)" >> "${NB}"
-	awk 'BEGIN {dism=ARGV[2]-ARGV[1]; print "\nPutative NAP domain coding sequences passing the size threshold:", ARGV[1]"\nPutative NAP domain containing non-coding sequences (not passing the size threshold):", dism}' "$(grep '>' size_filtered_augustus_annotation.aa | wc -l)" "$(grep '>' augustus_protein_hints_putative_loci_nhmmer_expanded_filt_annotation.aa | wc -l)" >> "${NB}"
+	awk 'BEGIN {dism=ARGV[2]-ARGV[1]; print "\nPutative NAP domain coding sequences passing the NAP domain size threshold:", ARGV[1]"\nPutative NAP domain containing non-coding sequences (not passing the NAP domain size threshold):", dism}' "$(grep '>' size_filtered_nap_proteins.aa | wc -l)" "$(grep '>' augustus_protein_hints_putative_loci_nhmmer_expanded_filt_annotation.aa | wc -l)" >> "${NB}"
 }
 
 struct_json(){
