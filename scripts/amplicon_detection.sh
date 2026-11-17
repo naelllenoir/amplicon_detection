@@ -168,13 +168,13 @@ annot_filter(){
 	cut -f9 "$(basename ${CHR%.*})"_size_filtered_nap_proteins.gff3 | xargs -I{} grep -w '^{}' augustus_protein_hints_putative_loci_nhmmer_expanded_oneliner.aa.gff3 > "$(basename ${CHR%.*})"_size_filtered_nap_proteins_annotation.gff3
 	cat "$(basename ${CHR%.*})"_size_filtered_nap_proteins.aa >> "$(basename ${CHR%.*})"_size_filtered_nap_proteins_annotation.gff3
 	awk 'BEGIN {dism=ARGV[2]-ARGV[1]; print "\nPutative protein-coding sequences predicted by AUGUSTUS encoding a NAP domain:", ARGV[1]"\nPutative protein-coding sequences predicted by AUGUSTUS not encoding a NAP domain:", dism}' "$(grep '>' augustus_protein_hints_putative_loci_nhmmer_expanded_filt_annotation.aa | wc -l)" "$(cut -f1 augustus_protein_hints_putative_loci_nhmmer_expanded_oneliner.aa.tsv | sort | uniq | wc -l)" >> "${NB}"
-	awk 'BEGIN {dism=ARGV[2]-ARGV[1]; print "\nPutative NAP domain coding sequences passing the NAP domain size threshold:", ARGV[1]"\nPutative NAP domain containing non-coding sequences (not passing the NAP domain size threshold):", dism}' "$(grep '>' size_filtered_nap_proteins.aa | wc -l)" "$(grep '>' augustus_protein_hints_putative_loci_nhmmer_expanded_filt_annotation.aa | wc -l)" >> "${NB}"
+	awk 'BEGIN {dism=ARGV[2]-ARGV[1]; print "\nPutative NAP domain coding sequences passing the NAP domain size threshold:", ARGV[1]"\nPutative NAP domain containing non-coding sequences (not passing the NAP domain size threshold):", dism}' "$(grep '>' $(basename ${CHR%.*})_size_filtered_nap_proteins.aa | wc -l)" "$(grep '>' augustus_protein_hints_putative_loci_nhmmer_expanded_filt_annotation.aa | wc -l)" >> "${NB}"
 }
 
 struct_json(){
-	for loc in $(grep '>' size_filtered_nap_proteins.aa); do
+	for loc in $(grep '>' "$(basename ${CHR%.*})"_size_filtered_nap_proteins.aa); do
 		seqname=${loc:1}
-		seq=$(awk -v loc=$seqname '$0 == ">"loc {getline;print}' size_filtered_nap_proteins.aa)
+		seq=$(awk -v loc=$seqname '$0 == ">"loc {getline;print}' "$(basename ${CHR%.*})"_size_filtered_nap_proteins.aa)
 		output=$(echo ${seqname} | grep -oE 'locus_[0-9]+\([+-]\)\.g[0-9]+\.t[0-9]+')
 		echo -e '{\n  "name": "'${seqname}'",\n  "sequences": [\n    {\n      "protein": {\n        "id": "A",\n        "sequence": "'${seq}'",\n        "description": "'${seqname}'"\n      }\n    }\n  ],\n  "modelSeeds": [63],\n  "dialect": "alphafold3",\n  "version": 4\n}' > ${OUT_DIR}/structure/json_files/"$(basename ${CHR%.*})"_${output}.json
 	done
