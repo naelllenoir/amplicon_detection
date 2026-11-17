@@ -1,6 +1,6 @@
 # Ignore all pipeline intermediate files and directories
 .gitconfig
-nohup.out
+nohup*.out
 **/hmm_profile/
 **/putative_exons/
 **/putative_loci/
@@ -8,7 +8,3 @@ nohup.out
 **/functional_domains/
 **/structure/
 **/detection_pipeline.log
-
-
-# Do not ignore counts.txt files
-!**/*_counts.txt
