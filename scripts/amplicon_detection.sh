@@ -133,7 +133,7 @@ putative_exons(){
 putative_loci(){
 	echo -e "Reconstructing putative loci...\n" >> "${LOG}"
 	echo -e "$(basename ${CHR%.*})\n---" >> "${NB}"
-	python3 ~/amplicon_detection/scripts/loci_reconstruction.py -i ${OUT_DIR}/putative_exons/table_nhmmer_orderedCoordAliStrand_nodesc.txt -o ${OUT_DIR}/putative_loci/putative_loci_nhmmer.gff3 -e 1000 -m 10000 >> "${NB}"
+	python3 ~/amplicon_detection/scripts/loci_reconstruction.py -i ${OUT_DIR}/putative_exons/table_nhmmer_orderedCoordAliStrand_nodesc.txt -o ${OUT_DIR}/putative_loci/putative_loci_nhmmer.gff3 -f "${CHR}" -e 1000 -m 10000 >> "${NB}"
         grep "putative_locus_expanded" ${OUT_DIR}/putative_loci/putative_loci_nhmmer.gff3 | awk -F'\t' 'BEGIN{OFS="\t"}{ match($9,/ID=([^;]+)/,id); print $1,$4-1,$5,id[1],".",$7}' > ${OUT_DIR}/putative_loci/putative_loci_nhmmer_expanded.bed
 }
 

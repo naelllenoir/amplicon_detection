@@ -20,7 +20,7 @@ Hits should have been previously ordered as follows:
 import argparse
 import sys
 from dataclasses import dataclass, field
-from typing import List, Optional
+from typing import List, Optional, Dict
 
 @dataclass
 class Hit:
@@ -106,6 +106,19 @@ def parse_nhmmer_tblout(path: str, coord_source: str = "ali") -> List[Hit]:
             hit.source_lines = [linenb]
             hits.append(hit)
     return hits
+
+
+def get_chr_length(fasta: str) -> Dict[str, int]:
+    lengths = {}
+    chr = None
+    with open(fasta) as fa:
+        for line in fa:
+            if line.startswith(">"):
+                chr = line[1:].split()[0]
+                lengths[chr] = 0
+            elif chr:
+                lengths[chr] += len(line.strip())
+    return lengths
 
 
 def merge_overlapping_hits(hits: List[Hit]) -> List[Hit]:
@@ -242,15 +255,19 @@ def build_loci(hits: List[Hit], max_size: Optional[int] = None) -> List[Locus]:
 
 
 
-def conditional_expansion(loci: List[Locus], expansion: Optional[int] = None) -> List[Locus]:
+def conditional_expansion(loci: List[Locus], expansion: Optional[int] = None, chrom_length: Optional[Dict[str, int]] = None) -> List[Locus]:
 
     if expansion is None:
         return loci
 
+    if chrom_length is None:
+        raise ValueError("Fasta file must be provided to calculate chromosome lengths.")
+
     sorted_loci = sorted(loci, key=lambda locus: (locus.target, locus.strand, locus.start))
     for locus in sorted_loci:
-        locus.extstart = locus.start - expansion
-        locus.extend = locus.end + expansion
+        chr_length = chrom_length[locus.target]
+        locus.extstart = max(1, locus.start - expansion)
+        locus.extend = min(chr_length, locus.end + expansion)
 
     for prev, current in zip(sorted_loci, sorted_loci[1:]):
         if prev.target != current.target:
@@ -394,6 +411,10 @@ def main():
         "-m","--max-size", type=int, default=None, help="Maximum size (bp) allowed for a reconstructed locus.",
     )
 
+    p.add_argument(
+        "-f","--fasta", required=True, help="Fasta file used as target to nhmmer.",
+    )
+
     args = p.parse_args()
 
     hits = parse_nhmmer_tblout(args.input, coord_source=args.coord_source)
@@ -412,10 +433,11 @@ def main():
     print(f"Loci reconstructed: {len(loci)}",
         file=sys.stdout)
 
-    exp_loci = conditional_expansion(loci, expansion=args.expansion)
+    chrom_length = get_chr_length(args.fasta)
+    exp_loci = conditional_expansion(loci, expansion=args.expansion, chrom_length=chrom_length)
     print(f"Loci expanded if expansion parameter on.",
         file=sys.stdout)
-    
+
     write_loci_gff3(exp_loci, args.output, span=args.span, expansion=args.expansion)
     print(f"Putative loci written in {args.output}",
         file=sys.stdout)
