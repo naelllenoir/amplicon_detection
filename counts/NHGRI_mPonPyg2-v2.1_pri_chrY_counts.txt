@@ -1,0 +1,28 @@
+NHGRI_mPonPyg2-v2.1_pri_chrY
+---
+nhmmer
+----------
+Hits (putative exons) read in /home/naell_lenoir/amplicon_detection/results_NHGRI_mPonPyg2-v2.1_pri_chrY/putative_exons/table_nhmmer_orderedCoordAliStrand_nodesc.txt: 716
+Overlapping hits fused -> 7
+Hits remaining: 709
+Loci reconstructed: 163
+Loci expanded if expansion parameter on.
+Putative loci written in /home/naell_lenoir/amplicon_detection/results_NHGRI_mPonPyg2-v2.1_pri_chrY/putative_loci/putative_loci_nhmmer.gff3
+
+
+AUGUSTUS
+----------
+Putative protein-coding sequences predicted by AUGUSTUS: 81
+Putative non-coding loci dismissed: 82
+
+
+Interproscan6
+----------
+Putative protein-coding sequences predicted by AUGUSTUS with functional domains identified: 73
+Putative protein-coding sequences predicted by AUGUSTUS without functional domains identified: 8
+
+Putative protein-coding sequences predicted by AUGUSTUS encoding a NAP domain: 73
+Putative protein-coding sequences predicted by AUGUSTUS not encoding a NAP domain: 0
+
+Putative NAP domain coding sequences passing the NAP domain size threshold: 37
+Putative NAP domain containing non-coding sequences (not passing the NAP domain size threshold): 36

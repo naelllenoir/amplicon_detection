@@ -1,0 +1,22 @@
+mEreDor1.pri_chrY
+---
+nhmmer
+----------
+Hits (putative exons) read in /home/naell_lenoir/amplicon_detection/results_mEreDor1.pri_chrY/putative_exons/table_nhmmer_orderedCoordAliStrand_nodesc.txt: 11
+Overlapping hits fused -> 0
+Hits remaining: 11
+Loci reconstructed: 11
+Loci expanded if expansion parameter on.
+Putative loci written in /home/naell_lenoir/amplicon_detection/results_mEreDor1.pri_chrY/putative_loci/putative_loci_nhmmer.gff3
+
+
+AUGUSTUS
+----------
+Putative protein-coding sequences predicted by AUGUSTUS: 5
+Putative non-coding loci dismissed: 6
+
+
+Interproscan6
+----------
+Putative protein-coding sequences predicted by AUGUSTUS with functional domains identified: 2
+Putative protein-coding sequences predicted by AUGUSTUS without functional domains identified: 3

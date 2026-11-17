@@ -1,0 +1,10 @@
+mArvNil1.pat.X_chrY
+---
+nhmmer
+----------
+Hits (putative exons) read in /home/naell_lenoir/amplicon_detection/results_mArvNil1.pat.X_chrY/putative_exons/table_nhmmer_orderedCoordAliStrand_nodesc.txt: 2
+Overlapping hits fused -> 0
+Hits remaining: 2
+Loci reconstructed: 2
+Loci expanded if expansion parameter on.
+Putative loci written in /home/naell_lenoir/amplicon_detection/results_mArvNil1.pat.X_chrY/putative_loci/putative_loci_nhmmer.gff3

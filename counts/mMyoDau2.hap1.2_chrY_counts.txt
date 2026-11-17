@@ -12,17 +12,17 @@ Putative loci written in /home/naell_lenoir/amplicon_detection/results_mMyoDau2.
 
 AUGUSTUS
 ----------
-Putative protein-coding sequences predicted by AUGUSTUS: 207
-Putative non-coding loci dismissed: 28
+Putative protein-coding sequences predicted by AUGUSTUS: 210
+Putative non-coding loci dismissed: 25
 
 
 Interproscan6
 ----------
-Putative protein-coding sequences predicted by AUGUSTUS with functional domains identified: 194
+Putative protein-coding sequences predicted by AUGUSTUS with functional domains identified: 197
 Putative protein-coding sequences predicted by AUGUSTUS without functional domains identified: 13
 
-Putative protein-coding sequences predicted by AUGUSTUS encoding a NAP domain: 193
+Putative protein-coding sequences predicted by AUGUSTUS encoding a NAP domain: 196
 Putative protein-coding sequences predicted by AUGUSTUS not encoding a NAP domain: 1
 
 Putative NAP domain coding sequences passing the NAP domain size threshold: 102
-Putative NAP domain containing non-coding sequences (not passing the NAP domain size threshold): 91
+Putative NAP domain containing non-coding sequences (not passing the NAP domain size threshold): 94

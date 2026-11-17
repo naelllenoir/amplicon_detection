@@ -1,0 +1,28 @@
+mDerPha1.hap1_chrY
+---
+nhmmer
+----------
+Hits (putative exons) read in /home/naell_lenoir/amplicon_detection/results_mDerPha1.hap1_chrY/putative_exons/table_nhmmer_orderedCoordAliStrand_nodesc.txt: 814
+Overlapping hits fused -> 0
+Hits remaining: 814
+Loci reconstructed: 256
+Loci expanded if expansion parameter on.
+Putative loci written in /home/naell_lenoir/amplicon_detection/results_mDerPha1.hap1_chrY/putative_loci/putative_loci_nhmmer.gff3
+
+
+AUGUSTUS
+----------
+Putative protein-coding sequences predicted by AUGUSTUS: 163
+Putative non-coding loci dismissed: 93
+
+
+Interproscan6
+----------
+Putative protein-coding sequences predicted by AUGUSTUS with functional domains identified: 161
+Putative protein-coding sequences predicted by AUGUSTUS without functional domains identified: 2
+
+Putative protein-coding sequences predicted by AUGUSTUS encoding a NAP domain: 125
+Putative protein-coding sequences predicted by AUGUSTUS not encoding a NAP domain: 36
+
+Putative NAP domain coding sequences passing the NAP domain size threshold: 110
+Putative NAP domain containing non-coding sequences (not passing the NAP domain size threshold): 15

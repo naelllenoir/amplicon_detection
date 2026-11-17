@@ -1,0 +1,28 @@
+mTamTet1.pri_chrY.unlocalized.scaf
+---
+nhmmer
+----------
+Hits (putative exons) read in /home/naell_lenoir/amplicon_detection/results_mTamTet1.pri_chrY.unlocalized.scaf/putative_exons/table_nhmmer_orderedCoordAliStrand_nodesc.txt: 24
+Overlapping hits fused -> 2
+Hits remaining: 22
+Loci reconstructed: 4
+Loci expanded if expansion parameter on.
+Putative loci written in /home/naell_lenoir/amplicon_detection/results_mTamTet1.pri_chrY.unlocalized.scaf/putative_loci/putative_loci_nhmmer.gff3
+
+
+AUGUSTUS
+----------
+Putative protein-coding sequences predicted by AUGUSTUS: 4
+Putative non-coding loci dismissed: 0
+
+
+Interproscan6
+----------
+Putative protein-coding sequences predicted by AUGUSTUS with functional domains identified: 4
+Putative protein-coding sequences predicted by AUGUSTUS without functional domains identified: 0
+
+Putative protein-coding sequences predicted by AUGUSTUS encoding a NAP domain: 4
+Putative protein-coding sequences predicted by AUGUSTUS not encoding a NAP domain: 0
+
+Putative NAP domain coding sequences passing the NAP domain size threshold: 4
+Putative NAP domain containing non-coding sequences (not passing the NAP domain size threshold): 0
