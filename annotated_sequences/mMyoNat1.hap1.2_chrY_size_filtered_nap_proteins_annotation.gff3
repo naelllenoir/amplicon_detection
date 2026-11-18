@@ -1,0 +1,699 @@
+locus_78(-).g62.t1	SUPERFAMILY	polypeptide_domain	43	185	1.83E-31	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_34(-).g27.t1	SUPERFAMILY	polypeptide_domain	31	217	1.24E-52	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_3(+).g2.t1	SUPERFAMILY	polypeptide_domain	107	232	1.96E-39	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_466(+).g367.t1	SUPERFAMILY	polypeptide_domain	27	151	1.7E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_504(+).g393.t1	SUPERFAMILY	polypeptide_domain	33	217	7.98E-54	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_228(-).g182.t1	SUPERFAMILY	polypeptide_domain	31	180	1.05E-28	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_39(+).g30.t1	SUPERFAMILY	polypeptide_domain	31	180	1.05E-28	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_443(+).g349.t1	SUPERFAMILY	polypeptide_domain	31	180	1.05E-28	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_58(+).g49.t1	SUPERFAMILY	polypeptide_domain	17	188	6.93E-46	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_482(-).g378.t1	SUPERFAMILY	polypeptide_domain	33	217	5.23E-54	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_195(-).g157.t1	SUPERFAMILY	polypeptide_domain	25	163	6.41E-22	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_503(+).g392.t1	SUPERFAMILY	polypeptide_domain	25	163	6.41E-22	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_21(-).g16.t1	SUPERFAMILY	polypeptide_domain	28	153	1.44E-21	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_188(-).g150.t1	SUPERFAMILY	polypeptide_domain	27	217	1.11E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_459(-).g360.t1	SUPERFAMILY	polypeptide_domain	27	217	1.11E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_157(-).g122.t1	SUPERFAMILY	polypeptide_domain	27	208	1.48E-24	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_171(-).g136.t1	SUPERFAMILY	polypeptide_domain	52	236	3.4E-52	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_312(-).g247.t1	SUPERFAMILY	polypeptide_domain	52	236	3.4E-52	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_423(-).g333.t1	SUPERFAMILY	polypeptide_domain	52	236	3.4E-52	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_448(+).g352.t1	SUPERFAMILY	polypeptide_domain	52	236	3.4E-52	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_192(-).g154.t1	SUPERFAMILY	polypeptide_domain	25	151	3.92E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_463(-).g364.t1	SUPERFAMILY	polypeptide_domain	25	151	3.92E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_395(+).g311.t1	SUPERFAMILY	polypeptide_domain	26	217	4.58E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_280(+).g223.t1	SUPERFAMILY	polypeptide_domain	60	200	3.53E-42	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_296(+).g233.t1	SUPERFAMILY	polypeptide_domain	60	200	3.53E-42	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_409(+).g320.t1	SUPERFAMILY	polypeptide_domain	60	200	3.53E-42	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_184(+).g147.t1	SUPERFAMILY	polypeptide_domain	33	217	3.27E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_317(-).g251.t1	SUPERFAMILY	polypeptide_domain	33	217	3.27E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_61(-).g51.t1	SUPERFAMILY	polypeptide_domain	2	164	1.22E-35	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_513(+).g401.t1	SUPERFAMILY	polypeptide_domain	178	366	5.49E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_455(-).g357.t1	SUPERFAMILY	polypeptide_domain	33	217	5.23E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_84(-).g65.t1	SUPERFAMILY	polypeptide_domain	27	186	2.62E-26	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_123(+).g95.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_127(+).g99.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_129(+).g101.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_133(+).g105.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_165(-).g130.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_169(-).g134.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_253(+).g203.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_269(-).g215.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_310(-).g245.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_322(+).g255.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_345(-).g270.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_348(+).g273.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_357(+).g280.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_363(-).g284.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_371(-).g291.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_421(-).g331.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_527(-).g413.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_475(+).g373.t1	SUPERFAMILY	polypeptide_domain	35	204	2.62E-46	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_68(+).g57.t1	SUPERFAMILY	polypeptide_domain	27	175	1.31E-27	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_108(+).g82.t1	SUPERFAMILY	polypeptide_domain	33	217	1.7E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_182(-).g145.t1	SUPERFAMILY	polypeptide_domain	33	217	1.7E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_392(+).g308.t1	SUPERFAMILY	polypeptide_domain	33	217	1.7E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_399(+).g313.t1	SUPERFAMILY	polypeptide_domain	22	157	2.62E-24	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_94(-).g73.t1	SUPERFAMILY	polypeptide_domain	22	157	2.62E-24	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_376(+).g296.t1	SUPERFAMILY	polypeptide_domain	25	153	9.16E-21	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_542(-).g426.t1	SUPERFAMILY	polypeptide_domain	28	217	6.54E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_291(+).g230.t1	SUPERFAMILY	polypeptide_domain	52	236	2.09E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_135(+).g107.t1	SUPERFAMILY	polypeptide_domain	31	229	2.75E-62	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_88(-).g69.t1	SUPERFAMILY	polypeptide_domain	31	229	2.75E-62	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_104(+).g79.t1	SUPERFAMILY	polypeptide_domain	38	202	1.57E-40	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_185(+).g148.t1	SUPERFAMILY	polypeptide_domain	38	202	1.57E-40	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_207(+).g168.t1	SUPERFAMILY	polypeptide_domain	38	202	1.57E-40	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_219(-).g174.t1	SUPERFAMILY	polypeptide_domain	38	202	1.57E-40	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_267(-).g213.t1	SUPERFAMILY	polypeptide_domain	38	202	1.57E-40	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_316(-).g250.t1	SUPERFAMILY	polypeptide_domain	38	202	1.57E-40	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_406(+).g318.t1	SUPERFAMILY	polypeptide_domain	38	202	1.57E-40	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_556(+).g436.t1	SUPERFAMILY	polypeptide_domain	38	222	4.19E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_103(+).g78.t1	SUPERFAMILY	polypeptide_domain	33	217	2.22E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_206(+).g167.t1	SUPERFAMILY	polypeptide_domain	33	217	2.22E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_220(-).g175.t1	SUPERFAMILY	polypeptide_domain	33	217	2.22E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_211(+).g170.t1	SUPERFAMILY	polypeptide_domain	27	215	2.62E-40	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_522(-).g408.t1	SUPERFAMILY	polypeptide_domain	28	216	1.12E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_13(-).g9.t1	SUPERFAMILY	polypeptide_domain	27	157	5.49E-24	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_427(-).g337.t1	SUPERFAMILY	polypeptide_domain	38	222	5.1E-42	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_429(-).g339.t1	SUPERFAMILY	polypeptide_domain	27	217	9.55E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_17(-).g12.t1	SUPERFAMILY	polypeptide_domain	27	188	4.84E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_137(-).g109.t1	SUPERFAMILY	polypeptide_domain	9	130	2.35E-39	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_86(+).g67.t1	SUPERFAMILY	polypeptide_domain	9	130	2.35E-39	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_279(-).g222.t1	SUPERFAMILY	polypeptide_domain	33	217	5.23E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_353(+).g277.t1	SUPERFAMILY	polypeptide_domain	33	217	5.23E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_389(-).g305.t1	SUPERFAMILY	polypeptide_domain	33	217	5.23E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_465(+).g366.t1	SUPERFAMILY	polypeptide_domain	33	217	5.23E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_485(+).g381.t1	SUPERFAMILY	polypeptide_domain	33	217	5.23E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_510(+).g398.t1	SUPERFAMILY	polypeptide_domain	33	217	5.23E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_199(+).g161.t1	SUPERFAMILY	polypeptide_domain	24	217	1.96E-39	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_191(-).g153.t1	SUPERFAMILY	polypeptide_domain	50	236	1.44E-52	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_120(+).g92.t1	SUPERFAMILY	polypeptide_domain	27	221	3.92E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_170(-).g135.t1	SUPERFAMILY	polypeptide_domain	27	221	3.92E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_311(-).g246.t1	SUPERFAMILY	polypeptide_domain	27	221	3.92E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_422(-).g332.t1	SUPERFAMILY	polypeptide_domain	27	221	3.92E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_449(+).g353.t1	SUPERFAMILY	polypeptide_domain	27	221	3.92E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_373(-).g293.t1	SUPERFAMILY	polypeptide_domain	72	215	6.41E-42	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_540(-).g425.t1	SUPERFAMILY	polypeptide_domain	51	236	1.18E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_119(+).g91.t1	SUPERFAMILY	polypeptide_domain	18	202	2.35E-52	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_261(-).g209.t1	SUPERFAMILY	polypeptide_domain	25	151	2.09E-22	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_509(-).g397.t1	SUPERFAMILY	polypeptide_domain	25	151	2.09E-22	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_359(+).g282.t1	SUPERFAMILY	polypeptide_domain	68	190	3.01E-31	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_161(-).g126.t1	SUPERFAMILY	polypeptide_domain	25	172	8.24E-22	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_433(-).g343.t1	SUPERFAMILY	polypeptide_domain	27	153	1.44E-21	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_260(-).g208.t1	SUPERFAMILY	polypeptide_domain	33	217	1.06E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_508(-).g396.t1	SUPERFAMILY	polypeptide_domain	33	217	1.06E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_242(+).g191.t1	SUPERFAMILY	polypeptide_domain	9	130	1.44E-39	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_57(-).g48.t1	SUPERFAMILY	polypeptide_domain	9	130	1.44E-39	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_302(+).g239.t1	SUPERFAMILY	polypeptide_domain	27	197	1.18E-41	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_415(+).g326.t1	SUPERFAMILY	polypeptide_domain	27	197	1.18E-41	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_515(+).g403.t1	SUPERFAMILY	polypeptide_domain	38	202	4.19E-41	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_520(-).g406.t1	SUPERFAMILY	polypeptide_domain	38	202	4.19E-41	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_22(+).g17.t1	SUPERFAMILY	polypeptide_domain	25	153	1.57E-20	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_6(-).g5.t1	SUPERFAMILY	polypeptide_domain	51	228	2.62E-36	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_116(-).g88.t1	SUPERFAMILY	polypeptide_domain	33	217	1.7E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_174(+).g139.t1	SUPERFAMILY	polypeptide_domain	33	217	1.7E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_111(+).g85.t1	SUPERFAMILY	polypeptide_domain	26	217	8.37E-45	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_177(+).g141.t1	SUPERFAMILY	polypeptide_domain	27	208	2.79E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_294(+).g232.t1	SUPERFAMILY	polypeptide_domain	27	208	2.79E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_231(-).g185.t1	SUPERFAMILY	polypeptide_domain	33	217	1.16E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_440(+).g346.t1	SUPERFAMILY	polypeptide_domain	33	217	1.16E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_230(-).g184.t1	SUPERFAMILY	polypeptide_domain	27	253	2.44E-24	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_441(+).g347.t1	SUPERFAMILY	polypeptide_domain	27	253	2.44E-24	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_462(-).g363.t1	SUPERFAMILY	polypeptide_domain	31	217	1.18E-52	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_532(-).g418.t1	SUPERFAMILY	polypeptide_domain	27	208	3.14E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_26(+).g21.t1	SUPERFAMILY	polypeptide_domain	27	208	2.18E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_113(-).g86.t1	SUPERFAMILY	polypeptide_domain	27	208	2.7E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_283(+).g224.t1	SUPERFAMILY	polypeptide_domain	27	187	1.83E-29	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_341(-).g267.t1	SUPERFAMILY	polypeptide_domain	27	187	1.83E-29	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_468(+).g368.t1	SUPERFAMILY	polypeptide_domain	27	187	1.83E-29	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_326(+).g258.t1	SUPERFAMILY	polypeptide_domain	27	181	1.16E-26	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_457(+).g359.t1	SUPERFAMILY	polypeptide_domain	27	181	1.16E-26	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_30(-).g24.t1	SUPERFAMILY	polypeptide_domain	15	176	2.88E-39	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_106(-).g80.t1	SUPERFAMILY	polypeptide_domain	73	239	2.79E-33	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_217(+).g173.t1	SUPERFAMILY	polypeptide_domain	73	239	2.79E-33	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_257(-).g206.t1	SUPERFAMILY	polypeptide_domain	73	239	2.79E-33	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_474(-).g372.t1	SUPERFAMILY	polypeptide_domain	73	239	2.79E-33	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_54(+).g45.t1	SUPERFAMILY	polypeptide_domain	28	220	5.49E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_243(-).g192.t1	SUPERFAMILY	polypeptide_domain	27	186	1.05E-12	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_56(+).g47.t1	SUPERFAMILY	polypeptide_domain	27	186	1.05E-12	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_233(-).g186.t1	SUPERFAMILY	polypeptide_domain	27	217	4.97E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_438(+).g345.t1	SUPERFAMILY	polypeptide_domain	27	217	4.97E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_24(+).g19.t1	SUPERFAMILY	polypeptide_domain	27	151	3.53E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_490(+).g384.t1	SUPERFAMILY	polypeptide_domain	23	187	1.96E-29	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_241(-).g190.t1	SUPERFAMILY	polypeptide_domain	18	176	5.49E-38	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_117(-).g89.t1	SUPERFAMILY	polypeptide_domain	25	153	1.44E-21	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_173(+).g138.t1	SUPERFAMILY	polypeptide_domain	25	153	1.44E-21	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_352(+).g276.t1	SUPERFAMILY	polypeptide_domain	25	153	1.44E-21	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_456(-).g358.t1	SUPERFAMILY	polypeptide_domain	25	153	1.44E-21	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_121(+).g93.t1	SUPERFAMILY	polypeptide_domain	39	222	5.49E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_20(-).g15.t1	SUPERFAMILY	polypeptide_domain	33	217	1.83E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_379(+).g298.t1	SUPERFAMILY	polypeptide_domain	22	157	1.57E-24	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_76(+).g61.t1	SUPERFAMILY	polypeptide_domain	38	222	3.4E-42	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_183(-).g146.t1	SUPERFAMILY	polypeptide_domain	25	163	1.57E-20	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_391(+).g307.t1	SUPERFAMILY	polypeptide_domain	25	163	1.57E-20	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_64(+).g53.t1	SUPERFAMILY	polypeptide_domain	24	172	1.7E-22	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_11(+).g7.t1	SUPERFAMILY	polypeptide_domain	101	282	1.16E-45	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_213(+).g171.t1	SUPERFAMILY	polypeptide_domain	128	292	1.31E-40	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_334(+).g262.t1	SUPERFAMILY	polypeptide_domain	128	292	1.31E-40	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_494(+).g386.t1	SUPERFAMILY	polypeptide_domain	128	292	1.31E-40	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_23(+).g18.t1	SUPERFAMILY	polypeptide_domain	33	217	9.42E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_75(+).g60.t1	SUPERFAMILY	polypeptide_domain	27	217	1.57E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_55(+).g46.t1	SUPERFAMILY	polypeptide_domain	32	217	7.72E-54	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_304(+).g240.t1	SUPERFAMILY	polypeptide_domain	23	217	2.75E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_417(+).g327.t1	SUPERFAMILY	polypeptide_domain	23	217	2.75E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_432(-).g342.t1	SUPERFAMILY	polypeptide_domain	33	217	1.7E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_139(+).g111.t1	SUPERFAMILY	polypeptide_domain	27	186	2.35E-26	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_226(-).g181.t1	SUPERFAMILY	polypeptide_domain	28	217	6.02E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_41(+).g31.t1	SUPERFAMILY	polypeptide_domain	28	217	6.02E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_492(+).g385.t1	SUPERFAMILY	polypeptide_domain	27	217	3.92E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_249(-).g198.t1	SUPERFAMILY	polypeptide_domain	27	217	1.26E-38	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_372(-).g292.t1	SUPERFAMILY	polypeptide_domain	27	217	1.26E-38	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_47(-).g37.t1	SUPERFAMILY	polypeptide_domain	27	217	1.26E-38	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_225(+).g180.t1	SUPERFAMILY	polypeptide_domain	7	181	4.32E-36	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_42(-).g32.t1	SUPERFAMILY	polypeptide_domain	7	181	4.32E-36	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_525(-).g411.t1	SUPERFAMILY	polypeptide_domain	33	217	5.23E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_160(-).g125.t1	SUPERFAMILY	polypeptide_domain	33	217	3.4E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_65(+).g54.t1	SUPERFAMILY	polypeptide_domain	33	217	3.4E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_85(-).g66.t1	SUPERFAMILY	polypeptide_domain	9	130	4.19E-39	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_450(+).g354.t1	SUPERFAMILY	polypeptide_domain	129	312	1.57E-42	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_179(-).g142.t1	SUPERFAMILY	polypeptide_domain	26	217	1.02E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_153(-).g119.t1	SUPERFAMILY	polypeptide_domain	107	232	1.7E-36	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_155(-).g120.t1	SUPERFAMILY	polypeptide_domain	107	232	1.7E-36	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_401(+).g314.t1	SUPERFAMILY	polypeptide_domain	107	232	1.7E-36	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_70(+).g58.t1	SUPERFAMILY	polypeptide_domain	107	232	1.7E-36	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_72(+).g59.t1	SUPERFAMILY	polypeptide_domain	107	232	1.7E-36	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_92(-).g72.t1	SUPERFAMILY	polypeptide_domain	107	232	1.7E-36	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_148(-).g117.t1	SUPERFAMILY	polypeptide_domain	27	217	1.7E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_209(+).g169.t1	SUPERFAMILY	polypeptide_domain	23	187	5.75E-29	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_330(+).g260.t1	SUPERFAMILY	polypeptide_domain	23	187	5.75E-29	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_537(-).g422.t1	SUPERFAMILY	polypeptide_domain	31	213	8.63E-26	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_255(+).g205.t1	SUPERFAMILY	polypeptide_domain	27	208	4.53E-26	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_276(-).g220.t1	SUPERFAMILY	polypeptide_domain	27	208	4.53E-26	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_343(-).g268.t1	SUPERFAMILY	polypeptide_domain	27	208	4.53E-26	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_350(+).g275.t1	SUPERFAMILY	polypeptide_domain	27	208	4.53E-26	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_142(+).g113.t1	SUPERFAMILY	polypeptide_domain	27	217	7.59E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_81(-).g64.t1	SUPERFAMILY	polypeptide_domain	27	217	7.59E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_396(+).g312.t1	SUPERFAMILY	polypeptide_domain	25	175	1.31E-21	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_97(-).g74.t1	SUPERFAMILY	polypeptide_domain	25	175	1.31E-21	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_15(-).g10.t1	SUPERFAMILY	polypeptide_domain	27	188	2.88E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_223(-).g178.t1	SUPERFAMILY	polypeptide_domain	27	208	2.01E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_44(+).g34.t1	SUPERFAMILY	polypeptide_domain	27	208	2.01E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_479(-).g375.t1	SUPERFAMILY	polypeptide_domain	27	208	1.48E-24	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_535(-).g421.t1	SUPERFAMILY	polypeptide_domain	27	217	5.1E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_483(-).g379.t1	SUPERFAMILY	polypeptide_domain	23	185	1.31E-22	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_278(-).g221.t1	SUPERFAMILY	polypeptide_domain	27	151	1.7E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_354(+).g278.t1	SUPERFAMILY	polypeptide_domain	27	151	1.7E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_454(-).g356.t1	SUPERFAMILY	polypeptide_domain	27	151	1.7E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_486(+).g382.t1	SUPERFAMILY	polypeptide_domain	27	151	1.7E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_159(-).g124.t1	SUPERFAMILY	polypeptide_domain	27	151	7.72E-24	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_290(+).g229.t1	SUPERFAMILY	polypeptide_domain	22	151	2.35E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_390(-).g306.t1	SUPERFAMILY	polypeptide_domain	22	151	2.35E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_464(+).g365.t1	SUPERFAMILY	polypeptide_domain	22	151	2.35E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_484(+).g380.t1	SUPERFAMILY	polypeptide_domain	22	151	2.35E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_328(+).g259.t1	SUPERFAMILY	polypeptide_domain	27	208	1.22E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_452(-).g355.t1	SUPERFAMILY	polypeptide_domain	27	208	1.22E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_488(+).g383.t1	SUPERFAMILY	polypeptide_domain	27	208	1.22E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_138(+).g110.t1	SUPERFAMILY	polypeptide_domain	9	130	4.19E-39	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_388(-).g304.t1	SUPERFAMILY	polypeptide_domain	27	151	1.7E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_245(-).g194.t1	SUPERFAMILY	polypeptide_domain	28	232	8.24E-20	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_517(-).g404.t1	SUPERFAMILY	polypeptide_domain	38	201	7.46E-43	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_193(+).g155.t1	SUPERFAMILY	polypeptide_domain	27	217	4.58E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_200(+).g162.t1	SUPERFAMILY	polypeptide_domain	27	217	4.58E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_285(+).g225.t1	SUPERFAMILY	polypeptide_domain	27	217	4.58E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_339(-).g266.t1	SUPERFAMILY	polypeptide_domain	27	217	4.58E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_470(+).g369.t1	SUPERFAMILY	polypeptide_domain	27	217	4.58E-44	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_332(+).g261.t1	SUPERFAMILY	polypeptide_domain	27	215	1.7E-39	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_534(+).g420.t1	SUPERFAMILY	polypeptide_domain	13	181	1.96E-37	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_244(-).g193.t1	SUPERFAMILY	polypeptide_domain	32	217	6.54E-54	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_539(-).g424.t1	SUPERFAMILY	polypeptide_domain	28	253	8.72E-25	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_299(-).g235.t1	SUPERFAMILY	polypeptide_domain	33	198	6.15E-35	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_412(-).g322.t1	SUPERFAMILY	polypeptide_domain	33	198	6.15E-35	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_147(-).g116.t1	SUPERFAMILY	polypeptide_domain	38	222	5.36E-42	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_259(-).g207.t1	SUPERFAMILY	polypeptide_domain	27	151	1.44E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_507(-).g395.t1	SUPERFAMILY	polypeptide_domain	27	151	1.44E-23	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+locus_405(+).g317.t1	SUPERFAMILY	polypeptide_domain	33	217	2.35E-53	.	.	Name=SSF143113;Dbxref=InterPro:IPR037231;type=Homologous_superfamily;representative=true
+>locus_78(-).g62.t1
+ICLLLRERQRERERERERERERERKKKKKKKKKKKKKKKKKKKKKRRDPFLPLITLTRNPTQNRGANVYQSIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCRLMFFFWSNPYFLNDLIIKQYDVSLAGYRASSSTPILWFWDYERGAPSRWQDTRSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCDGGSPTCMKSRLADWSGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_34(-).g27.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAQPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAEAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIIKQYDVSLAGYRASRSTPILWFWDYERVAPSRRQDTSSISFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVANWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_3(+).g2.t1
+MKAVEQMEEVEPQSEAKAKPEEEEPVQQEQAQSGPRGQVNLVPSGGAPGRPIGDGARERASQQGLLSAQVQDSAEAQALFQTEKPQYLVHPWVLAHSCCSLLDPKQFVNHPELSAMSTVQDENMLGHMFDLKVREVRHPWGCCTISLYFRSNPYFHNHVIVKEYLITLTGYRVSRATPIQWYQHCEQEAYSHRHQDSSASFFYWFSDHSVSGSGRIAEIISKDLWLNPLKYYERTMSPSERTGW
+>locus_466(+).g367.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTSNRRLPAWPSAGGGQGWKAMYPASHTPLLQDTGCPVPLQFSGTSIVNEKPRATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPSEQTGR
+>locus_504(+).g393.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRRDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_228(-).g182.t1
+GGEVHHGGSGTGGRGGASIKAKAKPEEEEPVQQEQAQSGPGAKFTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFHNHVIVKEYLLTLTASGRIAEIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_39(+).g30.t1
+GGEVHHGGSGTGGRGGASIKAKAKPEEEEPVQQEQAQSGPGAKFTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFHNHVIVKEYLLTLTASGRIAEIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_443(+).g349.t1
+GGEVHHGGSGTGGRGGASIKAKAKPEEEEPVQQEQAQSGPGAKFTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFHNHVIVKEYLLTLTASGRIAEIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_58(+).g49.t1
+MSAVEEAESQVEAEAKPEEQRAEPGPSGTSTWPTLEVLAALHVQLSTESARASRAYLQVKRKTSRLRKPILECKRAIIQCIPNFWAQAVKEVSLPKYRCRLMFSFRSNPYFLNDLIIKQYDVSLAGYRASSSTPILWFWDYERGAPSCRQDTSSVSFFDWLSEHTLLGSGKIAEIISEDLWPNPLQYYSADSGPRGGSCRGDLLERRSPPAGH
+>locus_482(-).g378.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYFRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_195(-).g157.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGKVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTRCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDVTGHASMQLPLSTCCLQFYSGPYGLLFALPDHQQGPVAQSPGEL
+>locus_503(+).g392.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGKVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTRCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDVTGHASMQLPLSTCCLQFYSGPYGLLFALPDHQQGPVAQSPGEL
+>locus_21(-).g16.t1
+MKGVEPVGEVEPQSKAKAKPEEEQPVQQEEAQSGPGAKLTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCSTRQRLKPYFKRRSLNIRCIPGFWLTAVSLRVEEQDHKEHGTVQENGVTEVRHPWGCCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPVWAAAGGGQGWKAMCPASHTPLLQDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDVTGHASMQLPVSTCCLQFYSGPYGLLFALPDHQQGPVAQSPGEL
+>locus_188(-).g150.t1
+MAAVEQVGEVEPQSKAKAKPEEEEPVHQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSERTGR
+>locus_459(-).g360.t1
+MAAVEQVGEVEPQSKAKAKPEEEEPVHQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSERTGR
+>locus_157(-).g122.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSPLRCRTRQRLKPYFKRRSLNIQRIPGFWLKAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLKGLLRWDVAGHASIQLPVSACCLGFYPGPCALLTQVCLPYQIISKDLWLNPLKYYERMMDPSERTGQ
+>locus_171(-).g136.t1
+TEVLGGEGPGAAGAEQLLDLDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRRDTSSVSFFNSLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_312(-).g247.t1
+TEVLGGEGPGAAGAEQLLDLDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRRDTSSVSFFNSLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_423(-).g333.t1
+TEVLGGEGPGAAGAEQLLDLDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRRDTSSVSFFNSLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_448(+).g352.t1
+TEVLGGEGPGAAGAEQLLDLDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRRDTSSVSFFNSLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_192(-).g154.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGSSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDIISKDLWLNPLENYERKMVPRVDRAGEEGLPGLSPGVLP
+>locus_463(-).g364.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGSSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDIISKDLWLNPLENYERKMVPRVDRAGEEGLPGLSPGVLP
+>locus_395(+).g311.t1
+MAAVEQVGEVEPQSKAKAKPEEEEPVHQEQAQSGPGAKLTWPPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKNYERTMAPSEQTGR
+>locus_280(+).g223.t1
+DMFTAEREREREREREREREREKKKKKKKKKKKKKKKKKKRKKKKKKRSLSSLNHPDQESNTKPRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFFFWSNPYFLNDLIIKQYVVSLAGYRASSSTPILWFWDYEHGAPSRWQDTRSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCDGGSPTCMKSRLADWSGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_296(+).g233.t1
+DMFTAEREREREREREREREREKKKKKKKKKKKKKKKKKKRKKKKKKRSLSSLNHPDQESNTKPRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFFFWSNPYFLNDLIIKQYVVSLAGYRASSSTPILWFWDYEHGAPSRWQDTRSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCDGGSPTCMKSRLADWSGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_409(+).g320.t1
+DMFTAEREREREREREREREREKKKKKKKKKKKKKKKKKKRKKKKKKRSLSSLNHPDQESNTKPRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFFFWSNPYFLNDLIIKQYVVSLAGYRASSSTPILWFWDYEHGAPSRWQDTRSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCDGGSPTCMKSRLADWSGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_184(+).g147.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPVLWFWDYERGAPSRRRDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADSSGPPLPCVPSQIISEDLWPNPLQFYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_317(-).g251.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPVLWFWDYERGAPSRRRDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADSSGPPLPCVPSQIISEDLWPNPLQFYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_61(-).g51.t1
+IRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCRLMFFFWSNPYFLNDLIIKQYDVSLAGYRASSSTPILWFWDYECGAPSRWQDTRSVSFFNWLSEHTLPGSGKIAEVIDIALATVRKCDGGSPTCMKSRLADWSGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_513(+).g401.t1
+MQVGEAETLELRLDTGQDVGIDLECGRGEDWVAAEQCVQGEESEVQQGTQSEEQGEDKEGLGEEFQAQAQFILWTEGLLQVVPWQAKWAGEEVFPDLQVGRQEEVVSEELMLEAQAPGDLQGSNHQEEGWMEEQLIAGEQFVLQGEGKFTMEAVEQVGEVEPQSKAKAKPEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWFTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAHSERTGR
+>locus_455(-).g357.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYECGAPSRRQDTRSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYLADSGPRGGSYRGDLLERRSPPAGH
+>locus_84(-).g65.t1
+MEAVEQVGEVEPQSKAKAKPEEEQPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGKRRLPAWAAAGGGQGWKIISKDLWLNPLKYYERMMALSEWTGR
+>locus_123(+).g95.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_127(+).g99.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_129(+).g101.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_133(+).g105.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_165(-).g130.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_169(-).g134.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_253(+).g203.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_269(-).g215.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_310(-).g245.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_322(+).g255.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_345(-).g270.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_348(+).g273.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_357(+).g280.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_363(-).g284.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_371(-).g291.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_421(-).g331.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_527(-).g413.t1
+MKAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_475(+).g373.t1
+ICLLLREREREREREREREREREERKKEEEEEEEEEEEEEEEEEEEEEEEKRSLSSLNHPDQESNTKPRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCRLMFFFWSNPYFLNDLIIKQYDVSLAGYRASSSTPILWFWDYERGAPSRRRDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCDGGSPTCMKSRLADWCGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_68(+).g57.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSPLRCRTRQRLKPYFKRRSLNIQRIPGFWLKAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLKASGRIAEIISKDLWLNPLKYYERMMDPSERTGQ
+>locus_108(+).g82.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_182(-).g145.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_392(+).g308.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_399(+).g313.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQSQSGPRAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQMLKPYFKRRSLNIWRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVAGHASIQLPVSACCLGFYLGPCVLLTQVCLPYQIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_94(-).g73.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQSQSGPRAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQMLKPYFKRRSLNIWRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVAGHASIQLPVSACCLGFYLGPCVLLTQVCLPYQIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_376(+).g296.t1
+MKGVEQVGEVEPQSKTKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKPRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPVWAAAGGGRGWKAMCPASHTPLLQDTGCPVPLQFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDVTGHASMQLPVSTCCLQFYSGPYGLLFALPDHQQGPVAQSPGEL
+>locus_542(-).g426.t1
+MEAVEQVGEVEPQSKAKAKPEEEQPVQQEQAQSGPGAKFTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVTASGWIAEIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_291(+).g230.t1
+TEVLGGEGPGAAGAGQLLDMDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYAADSGPRGGSCRGDLLERRSPPAGH
+>locus_135(+).g107.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAQPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRVKRKTSRLRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIIKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSISFFNWLSEHTLPGSGKIAEIISEDLWPNPLQYYPADSGPRGESCRGDLLERRSPPAGH
+>locus_88(-).g69.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAQPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRVKRKTSRLRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIIKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSISFFNWLSEHTLPGSGKIAEIISEDLWPNPLQYYPADSGPRGESCRGDLLERRSPPAGH
+>locus_104(+).g79.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKLYFKPRSLNIRRIPGFWLTAVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSEQTGR
+>locus_185(+).g148.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKLYFKPRSLNIRRIPGFWLTAVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSEQTGR
+>locus_207(+).g168.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKLYFKPRSLNIRRIPGFWLTAVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSEQTGR
+>locus_219(-).g174.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKLYFKPRSLNIRRIPGFWLTAVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSEQTGR
+>locus_267(-).g213.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKLYFKPRSLNIRRIPGFWLTAVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSEQTGR
+>locus_316(-).g250.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKLYFKPRSLNIRRIPGFWLTAVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSEQTGR
+>locus_406(+).g318.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKLYFKPRSLNIRRIPGFWLTAVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSEQTGR
+>locus_556(+).g436.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLQALQLEMEPMNEQASRAFSQLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_103(+).g78.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRLKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPVLWFWDYERGAPSRRRDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADSSGPPLPCVPSQIISEDLWPNPLQFYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_206(+).g167.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRLKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPVLWFWDYERGAPSRRRDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADSSGPPLPCVPSQIISEDLWPNPLQFYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_220(-).g175.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRLKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPVLWFWDYERGAPSRRRDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADSSGPPLPCVPSQIISEDLWPNPLQFYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_211(+).g170.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMETMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTISDRIAEIITKDLWLNPLK
+>locus_522(-).g408.t1
+MEAVEQVGEVEPQSKAKAKPEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWFTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAHSERTGR
+>locus_13(-).g9.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNKQASRAFSRLRCRTRQRLKPYFKRRSLNIWRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPRSSCTISLYFRSNPYFHNHVIVKEYLITLTGKRRLPPWAAAGGRQGWNAMCPASHTHLLQDTGCPVPLPFSGTSIVNEKSTATGSRTAAPASSTGFLTTVWQHLAGLLRWDVTGHASMQLPVSACCLGFCLGPCALLTKLCLLYQIISKDLWLNSLKYYERTMAPSERTGR
+>locus_427(-).g337.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKPCFKPRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENRVRQVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVTASGRIAEIISKDLWLNPLKYYERTMAPSERTGR
+>locus_429(-).g339.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEREPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAHSERTGR
+>locus_17(-).g12.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMETMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPAFWLKAVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVAGYASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSQRTGQ
+>locus_137(-).g109.t1
+MRRADPEPPPISAFISDEDEDLLNYLINVEVKEVSLPKYRCKFMFSFRSNPYFLNVLIIKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSISFFNWLSEHTLPGSGKIAEIISEDLWPNPLQYYPADSGPRGASCRGDLLERRSPPAGH
+>locus_86(+).g67.t1
+MRRADPEPPPISAFISDEDEDLLNYLINVEVKEVSLPKYRCKFMFSFRSNPYFLNVLIIKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSISFFNWLSEHTLPGSGKIAEIISEDLWPNPLQYYPADSGPRGASCRGDLLERRSPPAGH
+>locus_279(-).g222.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYECGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYLADSGPRGGSYRGDLLERRSPPAGH
+>locus_353(+).g277.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYECGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYLADSGPRGGSYRGDLLERRSPPAGH
+>locus_389(-).g305.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYECGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYLADSGPRGGSYRGDLLERRSPPAGH
+>locus_465(+).g366.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYECGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYLADSGPRGGSYRGDLLERRSPPAGH
+>locus_485(+).g381.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYECGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYLADSGPRGGSYRGDLLERRSPPAGH
+>locus_510(+).g398.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYECGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYLADSGPRGGSYRGDLLERRSPPAGH
+>locus_199(+).g161.t1
+MKALEQVGDVELQSNAKAKPQEEEPVQQEQAQTGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRFRTRQRLKPYFKLRSLNIWCIPGFWLTALSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYSRSNPYFRNHVIVKEYLITLTRYRVSRATPIQWYQHCEQEVYSHRLQDSSASFFYWFFDHSVTASGRIAEIISKDVWLNPLKYYERTMAPSERTGW
+>locus_191(-).g153.t1
+TEVLGGEGPGAAGAGQLLDMDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQQAEPGPSGTSTRPTLEVLAALQVQLSIESALASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFWSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_120(+).g92.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPVFWLTALSLRVEEQDHKEHETVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTGCPVPLQFSGTSIVNEKPTATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPSEQTGR
+>locus_170(-).g135.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPVFWLTALSLRVEEQDHKEHETVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTGCPVPLQFSGTSIVNEKPTATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPSEQTGR
+>locus_311(-).g246.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPVFWLTALSLRVEEQDHKEHETVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTGCPVPLQFSGTSIVNEKPTATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPSEQTGR
+>locus_422(-).g332.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPVFWLTALSLRVEEQDHKEHETVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTGCPVPLQFSGTSIVNEKPTATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPSEQTGR
+>locus_449(+).g353.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPVFWLTALSLRVEEQDHKEHETVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTGCPVPLQFSGTSIVNEKPTATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPSEQTGR
+>locus_373(-).g293.t1
+VCLLLREREREREREREREREEEEEEEEEEEEEEEEEKRREEKRREEKRREEKRREEKRREKRSLSSFNHPDQESNTKPTKLILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIIKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSISFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_540(-).g425.t1
+TEVLGGEGPGAAGAGQLLDVDLLSQVVEAEAGDKMSAAEEAESQVEAEAQPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAEAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPSDSGPRGGSCRADLLERRSPPAGH
+>locus_119(+).g91.t1
+MSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRRDTSSVSFFNSLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_261(-).g209.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLL
+>locus_509(-).g397.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLL
+>locus_359(+).g282.t1
+ICLLLREREREREREREREREREKERKKKKKKKKKKKKKKKKKKKKKKKKKRDPFLPLITLTRNPTQNRGANVYQSIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCRLMFFFWSNPYFLNDLIIKQYDVSLAGYRASSSTPILWFWDYERGAPSRRRDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCDGGSPTCMKSRLADWCGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_161(-).g126.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLHFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPIISKDLWLNPLENYERKMVPRVDRAGEEGLPGLSPGVLP
+>locus_433(-).g343.t1
+MKGVEQVGEVEPQSKAKGKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPVWAAAGGGQGWKAMCPASHTPLLQDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDVTGHASMQLPLSTCCLQFYSGPYGLLFALPDHQQGPVAQSPGEL
+>locus_260(-).g208.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYECGAPSRRQDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSYRGDLLERRSPPAGH
+>locus_508(-).g396.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYECGAPSRRQDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSYRGDLLERRSPPAGH
+>locus_242(+).g191.t1
+MRRADPEPPQISAFISDEDEDLLNYLINVEVKEVSLPKYRCRLMFSFRSNPYFLNDLIIKQYDVSLAGYRSSRSTPILWFWDYERVAPSRRQDTSSISFFNWLSEHTLPGSGKIAEIISKDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_57(-).g48.t1
+MRRADPEPPQISAFISDEDEDLLNYLINVEVKEVSLPKYRCRLMFSFRSNPYFLNDLIIKQYDVSLAGYRSSRSTPILWFWDYERVAPSRRQDTSSISFFNWLSEHTLPGSGKIAEIISKDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_302(+).g239.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTPQRLKPYFKPRSLNIRRIPGFWLTAVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTASGRIAEIITKDLWLNPLKYYERTMAQSERTGR
+>locus_415(+).g326.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTPQRLKPYFKPRSLNIRRIPGFWLTAVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTASGRIAEIITKDLWLNPLKYYERTMAQSERTGR
+>locus_515(+).g403.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKPCFKPRSLNIRRIPGFWLTAVRQVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSERTGR
+>locus_520(-).g406.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKPCFKPRSLNIRRIPGFWLTAVRQVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSERTGR
+>locus_22(+).g17.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGWCTISLYFCSKPYFRNHVIVKKYLITLTSNRRLPVWAAAGGGQGWKAMCPASHTPLLQDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDVTGHASMQLPVSTCCLQFYSGPYGLLFALPDHQQGPVAQSPGEL
+>locus_6(-).g5.t1
+MKGNSLSCRGRRGQHEGSGTGGATVLGQSKARRRAASAAGQAQSGPRAKFTWSPLEMLQALQLEMEPVNEQASRAFSRLRCRTRQRLKPDFEQRSLNIRHIPGFWLTTVSLRVEEQDHKEHGTVQENGVREVRRLWGCCITSLCFRSHPYFCNHVIVKEYLITLIGYRVFRATPIQWSQHCEQEAYSHRHQDSSPSFFYVFSDHSMAGSGKIAEIIIKDLWLHLLKYYERMIAPSERTGRVSGNPPHAEA
+>locus_116(-).g88.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYAADSGPRGGSCRGDLLERRSPPAGH
+>locus_174(+).g139.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYAADSGPRGGSCRGDLLERRSPPAGH
+>locus_111(+).g85.t1
+MAAVEQVGEVEPQSKAKAKPEEEEPVHQEQAQSGPGAKLTWPPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSERTGR
+>locus_177(+).g141.t1
+MEAVEQVGEVEPQSKAKAKPEEEQPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPGFWLKAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVAGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_294(+).g232.t1
+MEAVEQVGEVEPQSKAKAKPEEEQPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPGFWLKAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVAGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_231(-).g185.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAEAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPSDSGPRGGSCRADLLERRSPPAGH
+>locus_440(+).g346.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAEAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPSDSGPRGGSCRADLLERRSPPAGH
+>locus_230(-).g184.t1
+MEAVKQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFFRLRCRTRQRLKPYFKRRSLNMRRIPAFWLTALSLRVEEQDHKEHETVQENVVREVRHPWGCCTISLYFRSNPYFHNHVIVKEYLITLTSNRRLPAWASAGGGQGCKAMCPASHTPLLQDTGCPVPLQFSGTSIVNEKPTATGSRTAVPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLKNYERTMAPSEQTGR
+>locus_441(+).g347.t1
+MEAVKQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFFRLRCRTRQRLKPYFKRRSLNMRRIPAFWLTALSLRVEEQDHKEHETVQENVVREVRHPWGCCTISLYFRSNPYFHNHVIVKEYLITLTSNRRLPAWASAGGGQGCKAMCPASHTPLLQDTGCPVPLQFSGTSIVNEKPTATGSRTAVPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLKNYERTMAPSEQTGR
+>locus_462(-).g363.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQQAEPGPSGTSTRPTLEVLAALQVQLSIESALASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFWSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_532(-).g418.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQAVQLEMEPMNEQASSAFSRLRCRTWQRLKPYFKQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQKNGVREVRHPWGCCTISLYFRSNPYFRNDVIVKEYLITLTGLLRWDVAGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSERTRQ
+>locus_26(+).g21.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFHNHVIVKEYLITLTGLLRWDVAGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSERTGR
+>locus_113(-).g86.t1
+MEAVEQVGEVEPQSKAKAEPEEEQPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPGFWLKAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVAGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_283(+).g224.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMDPMNEQAIRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGEYLNTLTGYRLSRATPIQWYQHCEREVYSHRLQDSSTSFFYWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMALSEWTGR
+>locus_341(-).g267.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMDPMNEQAIRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGEYLNTLTGYRLSRATPIQWYQHCEREVYSHRLQDSSTSFFYWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMALSEWTGR
+>locus_468(+).g368.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMDPMNEQAIRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGEYLNTLTGYRLSRATPIQWYQHCEREVYSHRLQDSSTSFFYWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMALSEWTGR
+>locus_326(+).g258.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPGFWLKAVSLRVEDQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTASGRIAEVCLPYQIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_457(+).g359.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPGFWLKAVSLRVEDQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTASGRIAEVCLPYQIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_30(-).g24.t1
+MSAAEEAESQVEAEEKPEEQRAEPGPSGTSTWPTLEVLAALQVQLSTESARASRAYLQVKRKTSRLRKPILECRRAIIQCIPNFWAQAVKEVSLPKYRCRLMFSFRSNPYFLNDLIIKQYDVSLAGYRASSSTPILWFWDYERGAPSCRQDTSSVSFFNWLSEHTLLGSGKIAEVIDTALATVRKCNGGSPTCMKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_106(-).g80.t1
+DMFTAERERERERERERERERERERERKKERKKKKKKKKKKKKKKKKKKRRDPFLPLITLTRNPTQNRGANVYQSIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCRLMFFFWSNPYFLNDLIIKQYDVSLAGYRASSSTPILWFWDYERGAPSRWQDTRSVSFFNWLSEHTLPGSGKIAEVIDIALATVRKCDGGSPTCMKSRLADWSGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_217(+).g173.t1
+DMFTAERERERERERERERERERERERKKERKKKKKKKKKKKKKKKKKKRRDPFLPLITLTRNPTQNRGANVYQSIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCRLMFFFWSNPYFLNDLIIKQYDVSLAGYRASSSTPILWFWDYERGAPSRWQDTRSVSFFNWLSEHTLPGSGKIAEVIDIALATVRKCDGGSPTCMKSRLADWSGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_257(-).g206.t1
+DMFTAERERERERERERERERERERERKKERKKKKKKKKKKKKKKKKKKRRDPFLPLITLTRNPTQNRGANVYQSIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCRLMFFFWSNPYFLNDLIIKQYDVSLAGYRASSSTPILWFWDYERGAPSRWQDTRSVSFFNWLSEHTLPGSGKIAEVIDIALATVRKCDGGSPTCMKSRLADWSGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_474(-).g372.t1
+DMFTAERERERERERERERERERERERKKERKKKKKKKKKKKKKKKKKKRRDPFLPLITLTRNPTQNRGANVYQSIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCRLMFFFWSNPYFLNDLIIKQYDVSLAGYRASSSTPILWFWDYERGAPSRWQDTRSVSFFNWLSEHTLPGSGKIAEVIDIALATVRKCDGGSPTCMKSRLADWSGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_54(+).g45.t1
+MEAVEQVGEVEPQSKAKAKPEEEQPVQQEQAQSGPGAKFTWSPLEVLQPLQLEMEPMNKQASRAFSRLRCRTQQRLKPYFKRRSLNIRRIPAFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTVWQDLAGLLSKDLWLNPLENYERKMVPRVDRA
+>locus_243(-).g192.t1
+MEAVEQVGEVEPQSKAKAKPEEEQPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKQRSLNIRCIPAFWLTALSLRVEEQDHKEHETVQENGDTGCPVPLQFSGTSIVNEKPTATGSRKAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLKNYERKMAPSEQTGR
+>locus_56(+).g47.t1
+MEAVEQVGEVEPQSKAKAKPEEEQPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKQRSLNIRCIPAFWLTALSLRVEEQDHKEHETVQENGDTGCPVPLQFSGTSIVNEKPTATGSRKAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLKNYERKMAPSEQTGR
+>locus_233(-).g186.t1
+MEAVEQVGEVEPQSKAKAKPEEEQPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVTASGWIAEIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_438(+).g345.t1
+MEAVEQVGEVEPQSKAKAKPEEEQPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVTASGWIAEIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_24(+).g19.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPAFWLTALSLRVEEQDHKEHETVQENVVREVRHPWGCCTISLYFCSNPYFCNHVIVKEYLITLTSNRRLPALASAGGGQGCKAMCPASHTPLLQDTGCPVPLQFSGTSIVNEKPTATGSRTAAPASSTGSLTIVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPSEQTGR
+>locus_490(+).g384.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGHGAKLTWSPLEVLQALQLEMDPMNEQAIRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGEYLNTLTGYRLSRATPIQWYQHCEREVYSHRLQDSSTSFFYWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMALSEWTGR
+>locus_241(-).g190.t1
+MSAAEEAESQVEAEAKPEEQRAEPGPSGTSTWPTLEVLAALQVQLSTESARASRAYLQVKRKTSRLRKPILECKRAIIQCIPNFWAQAVKEVSLPKYRFRLMFSFRSNPYFLNDLIIKQYDVSLAGYRASSSTPILWFWDYERGAPSCRQDTSSVSFFDWLSEHTLLGSGKIAEVIDTALATVRKCNGGSPTCMKSRVADWSVPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_117(-).g89.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVRDVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPVWAAAGGGQGWKAMCPASHTPLLQDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDVTGHASMQLPVSTCCLQFYSGPKGLLFALPDHQQGPVAQSPG
+>locus_173(+).g138.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVRDVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPVWAAAGGGQGWKAMCPASHTPLLQDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDVTGHASMQLPVSTCCLQFYSGPKGLLFALPDHQQGPVAQSPG
+>locus_352(+).g276.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVRDVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPVWAAAGGGQGWKAMCPASHTPLLQDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDVTGHASMQLPVSTCCLQFYSGPKGLLFALPDHQQGPVAQSPG
+>locus_456(-).g358.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVRDVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPVWAAAGGGQGWKAMCPASHTPLLQDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDVTGHASMQLPVSTCCLQFYSGPKGLLFALPDHQQGPVAQSPG
+>locus_121(+).g93.t1
+GGEVHHEGSGTGGRGGASVQGQSKARRRGASAAGAGPVRAQGQVTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_20(-).g15.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRGQDTSSVSFFNWLSEHTLPRSGKIAEVIDTALSTVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_379(+).g298.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQSQSGPRAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQMLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVAGHASIQLPVSACCLGFYLGPCVLLTQVCLPYQIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_76(+).g61.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKPRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSERTGW
+>locus_183(-).g146.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLKSSASLGSGSQLLLDPQQFVNHPELSAKIRVQGENILVHMINLKVREVRHPWGCCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGSSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDIISKDLWLNPLENYERKMVPRVDRAGEEGLPGLSPGVLP
+>locus_391(+).g307.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLKSSASLGSGSQLLLDPQQFVNHPELSAKIRVQGENILVHMINLKVREVRHPWGCCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGSSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDIISKDLWLNPLENYERKMVPRVDRAGEEGLPGLSPGVLP
+>locus_64(+).g53.t1
+MKGVEQVGEVEPQSKAKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPIISKDLWLNPLENYERKMVPRVDRAGEEGLPGLSPGVLP
+>locus_11(+).g7.t1
+MLVVRVVPGQGMWAGEEVFPDLEVGKQEEVVDEELRVEEQTEVLEGPDRQEEGWMEQQLIAGEQFVPKGEEENAMKAMVEVSEPEPQSEAEAKPQEEKPVKQEQAQSGSGGKCTWNPLEVLQALQLEMEPVNEQASRAFSRLRRRMWQRRKPHFELRSLNIRHIPGFWPTAVSLRIEERNHKVREVRHPGDCCTISLYFRSNPYFRNDVIVKEYLITLRGYRASRATPIQWYQHYEWEAYSRRHNDSTFNFFNWFSDHSMAGSGRIAEIIIKDLWLNPLKYYERTMAPREQTGRVRRGCLDSPLVCCQ
+>locus_213(+).g171.t1
+MQVGEAETLELSLDTGQDIGLDLECGRGEDWVAAEQCVQGEESEVQQGTQSEEQGEDKEGLGEEFQAQAQFILWTEGLLQVVPWQAKWAGGGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKPRSLNIRRIPGFWLTAVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKNLWLNPLKYYERTMAPSERTGR
+>locus_334(+).g262.t1
+MQVGEAETLELSLDTGQDIGLDLECGRGEDWVAAEQCVQGEESEVQQGTQSEEQGEDKEGLGEEFQAQAQFILWTEGLLQVVPWQAKWAGGGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKPRSLNIRRIPGFWLTAVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKNLWLNPLKYYERTMAPSERTGR
+>locus_494(+).g386.t1
+MQVGEAETLELSLDTGQDIGLDLECGRGEDWVAAEQCVQGEESEVQQGTQSEEQGEDKEGLGEEFQAQAQFILWTEGLLQVVPWQAKWAGGGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKPRSLNIRRIPGFWLTAVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKNLWLNPLKYYERTMAPSERTGR
+>locus_23(+).g18.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIQNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFSFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFKWLSEHILPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_75(+).g60.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRVSCATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAHSERTGR
+>locus_55(+).g46.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAQPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRVKRKTSRLRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIIKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSISFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_304(+).g240.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPWAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFHNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASIFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAQSERTGR
+>locus_417(+).g327.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPWAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFHNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASIFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAQSERTGR
+>locus_432(-).g342.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSYRGDLLERRSPPAGH
+>locus_139(+).g111.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGKRRLPAWAAAGGGQGWKIISKDLWLNPLKYYERMMALSEWTGR
+>locus_226(-).g181.t1
+MEAVEQVGEVEPQSKAKAKPAEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASSAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENSVRKVRHPRGCCTISLYFRSNPYFHNHVIVKEYLITLTGYRVSCATPIQWYQHCEPEVYSHRLQDSSASFFYWFSDHSVAASGRIAEVISKGLWLNPLKYYERTMAPSERTGR
+>locus_41(+).g31.t1
+MEAVEQVGEVEPQSKAKAKPAEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASSAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENSVRKVRHPRGCCTISLYFRSNPYFHNHVIVKEYLITLTGYRVSCATPIQWYQHCEPEVYSHRLQDSSASFFYWFSDHSVAASGRIAEVISKGLWLNPLKYYERTMAPSERTGR
+>locus_492(+).g385.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTLSPLEVLKALQLEMETMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAHSERTGR
+>locus_249(-).g198.t1
+MKALEQVGDVELQSNAKAKPQEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRFRTRQRLKPYFELRSLNIWCIPAFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYSRSNPYFRNHVIVKEYLITLTRYRVSRATPIQWYQHCEQEVYSHRLQDSSASFFYWFFDHSVTASGRIAEIISKDVWLNPLKYYERTMAPSERTGW
+>locus_372(-).g292.t1
+MKALEQVGDVELQSNAKAKPQEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRFRTRQRLKPYFELRSLNIWCIPAFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYSRSNPYFRNHVIVKEYLITLTRYRVSRATPIQWYQHCEQEVYSHRLQDSSASFFYWFFDHSVTASGRIAEIISKDVWLNPLKYYERTMAPSERTGW
+>locus_47(-).g37.t1
+MKALEQVGDVELQSNAKAKPQEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRFRTRQRLKPYFELRSLNIWCIPAFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYSRSNPYFRNHVIVKEYLITLTRYRVSRATPIQWYQHCEQEVYSHRLQDSSASFFYWFFDHSVTASGRIAEIISKDVWLNPLKYYERTMAPSERTGW
+>locus_225(+).g180.t1
+AKAKPEEEEPVQQEQAQLGPGAKFTWYPLEMLQALQLEMEPMNEQASRAFSRLRFRTRQRLKPYFEQRSLNIRRIPGFWLTAVREVRRLWGCCNTSLCFRSNPYFCNHVIVNEYLITLTGYRVFRATPFQWSQHCEQEAYSHRHQDSSPSFFYGFSDHSVGEAGKIAEIISKDLWLNPLKYSERMMALSERTGL
+>locus_42(-).g32.t1
+AKAKPEEEEPVQQEQAQLGPGAKFTWYPLEMLQALQLEMEPMNEQASRAFSRLRFRTRQRLKPYFEQRSLNIRRIPGFWLTAVREVRRLWGCCNTSLCFRSNPYFCNHVIVNEYLITLTGYRVFRATPFQWSQHCEQEAYSHRHQDSSPSFFYGFSDHSVGEAGKIAEIISKDLWLNPLKYSERMMALSERTGL
+>locus_525(-).g411.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYECGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPTLPCVPSQIISEDLWPNPLQYYLADSGPRGGSYRGDLLERRSPPAGH
+>locus_160(-).g125.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFWSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSYRGDLLERRSPPAGH
+>locus_65(+).g54.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFWSNPYFLNDLIVKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSVSFFKWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSYRGDLLERRSPPAGH
+>locus_85(-).g66.t1
+MRRADPEPPQISAFISDEDEDLLNYLINVEVKEVSLPKYRCRLMFSFRSNPYFLNVLIIKQYDVSLAGYRASRSTPILWFWDYERVAPSRRQDTSSISFFNWLSEHTLPGSGKIAEIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_450(+).g354.t1
+MLVGEAETLELRLDTGQDVGIDPECGRGEDRVAAEQCVQGEESEVQQGTQSEEQGEDKEGLGEEFQAQAQFILWTEGLLQVVPWQAKWAGGGEVHHEGSGTGGRGGASVQGQSKARRRGASAAGAGPVRAQGQVTWSPLEVLQALQLEMEPMNEQASRAFSRIRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEQEVYSHGLQDSNASFFCWISDHSVTSSDRIAEIISKDLWLNPLKYYERTMAQSERTGR
+>locus_179(-).g142.t1
+MAAVEQVGEVEPQSKAKAKPEEEEPVHQEQAQSGPGAKLTWPPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIQRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAESGRIAEIISKDLWLNPLKNYERTMAPSEQTGR
+>locus_153(-).g119.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPRGQVNLVPSGGAPGPSIGDGAHEHTSHQGLLSAQVQDSAEAQALFQTEKPQYPAHPWVLAHSCCRLLDPKQFVNHPELSAMISVQDKNMLGHVIDLKVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMALSEWTGW
+>locus_155(-).g120.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPRGQVNLVPSGGAPGPSIGDGAHEHTSHQGLLSAQVQDSAEAQALFQTEKPQYPAHPWVLAHSCCRLLDPKQFVNHPELSAMISVQDKNMLGHVIDLKVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMALSEWTGW
+>locus_401(+).g314.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPRGQVNLVPSGGAPGPSIGDGAHEHTSHQGLLSAQVQDSAEAQALFQTEKPQYPAHPWVLAHSCCRLLDPKQFVNHPELSAMISVQDKNMLGHVIDLKVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMALSEWTGW
+>locus_70(+).g58.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPRGQVNLVPSGGAPGPSIGDGAHEHTSHQGLLSAQVQDSAEAQALFQTEKPQYPAHPWVLAHSCCRLLDPKQFVNHPELSAMISVQDKNMLGHVIDLKVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMALSEWTGW
+>locus_72(+).g59.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPRGQVNLVPSGGAPGPSIGDGAHEHTSHQGLLSAQVQDSAEAQALFQTEKPQYPAHPWVLAHSCCRLLDPKQFVNHPELSAMISVQDKNMLGHVIDLKVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMALSEWTGW
+>locus_92(-).g72.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPRGQVNLVPSGGAPGPSIGDGAHEHTSHQGLLSAQVQDSAEAQALFQTEKPQYPAHPWVLAHSCCRLLDPKQFVNHPELSAMISVQDKNMLGHVIDLKVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMALSEWTGW
+>locus_148(-).g117.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFCNHVIVKEYLITLTGYTVSCATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAHSERTGR
+>locus_209(+).g169.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGHGAKLTWSPLEVLQALQLEMDPMNEQAIRAFSRLRCRTRQRLKPYFKWRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGEYLNTLTGYRLSRATPIQWYQHCEREVYSHRLQDSSTSFFYWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMALSEWTGR
+>locus_330(+).g260.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGHGAKLTWSPLEVLQALQLEMDPMNEQAIRAFSRLRCRTRQRLKPYFKWRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGEYLNTLTGYRLSRATPIQWYQHCEREVYSHRLQDSSTSFFYWFSDHSVTASGRIAEIISKDLWLNPLKYYERMMALSEWTGR
+>locus_537(-).g422.t1
+GGEVHHGGSGTGGRGGASIKAKAKPEEEEPVQQEQAQSGPGAKFTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGCCTISLYFRSNPYFHNHVIVKEYLLTLTGLLRWDVAGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_255(+).g205.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIQCIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVTGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSQRTGQ
+>locus_276(-).g220.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIQCIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVTGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSQRTGQ
+>locus_343(-).g268.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIQCIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVTGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSQRTGQ
+>locus_350(+).g275.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIQCIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVTGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSQRTGQ
+>locus_142(+).g113.t1
+MGAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSERTGR
+>locus_81(-).g64.t1
+MGAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSERTGR
+>locus_396(+).g312.t1
+MKGVEQVGEVEPQSKTKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKPRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDIISKDLWLNPLENYERKMVPRVDRVGEEGLPGLSPGVLP
+>locus_97(-).g74.t1
+MKGVEQVGEVEPQSKTKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKPRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLLRLDIISKDLWLNPLENYERKMVPRVDRVGEEGLPGLSPGVLP
+>locus_15(-).g10.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASSAFSPLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVTGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMARSEWTGR
+>locus_223(-).g178.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASSAFSRLRCRTWQRLKPYFKQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQKNGVREVRHPWGCCTISLYFRSNPYFRNDVIVKEYLITLTGLLRWDVAGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_44(+).g34.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASSAFSRLRCRTWQRLKPYFKQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQKNGVREVRHPWGCCTISLYFRSNPYFRNDVIVKEYLITLTGLLRWDVAGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSERTGQ
+>locus_479(-).g375.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMETMNEQASRAFSRLRCRTRQRLKPYLKRRSLNIQRIPGFWLKAVSLRVEEQDHKEHGTVQENVVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLKRLLRWDVAGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWFNPLKYYERMMAPSQRTGQ
+>locus_535(-).g421.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMEPMNEQASSAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENSVRKVRHPRGCCTISLYFRSNPYFHNHVIVKEYLITLTGYRVSCATPIQWYQHCEPEVYSHRLQDSSASFFYWFSDHSVAASGRIAEVISKGLWLNPLKYYERTMAPSERTGR
+>locus_483(-).g379.t1
+MKGVEQVGEVEPQSKSKAKPEEEQPVQQEEAQSGPRAKFTWSPLEVLQFLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFEQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPVWAAAGGGQPYQIISKDLWLNPLENYERKMVPRMDRAGEEGLPGLSPGVLP
+>locus_278(-).g221.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTSNRRLPAWPSAGGGQGWKAMYPASHTPLLQDTGCPVPLQFSGTSIVNEKPTATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPSEQTGR
+>locus_354(+).g278.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTSNRRLPAWPSAGGGQGWKAMYPASHTPLLQDTGCPVPLQFSGTSIVNEKPTATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPSEQTGR
+>locus_454(-).g356.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTSNRRLPAWPSAGGGQGWKAMYPASHTPLLQDTGCPVPLQFSGTSIVNEKPTATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPSEQTGR
+>locus_486(+).g382.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTSNRRLPAWPSAGGGQGWKAMYPASHTPLLQDTGCPVPLQFSGTSIVNEKPTATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPSEQTGR
+>locus_159(-).g124.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPAFWLTALSLRVEEQDHKEHETVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTSNRRLPAWASAGGGQGWKVMYPASHTPLLQDTGCPVPLQFSGTSIVNEKPTATGSRTTAPASSTGSLTAVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPSEQTGR
+>locus_290(+).g229.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQSQSGPRAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQMLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLL
+>locus_390(-).g306.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQSQSGPRAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQMLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLL
+>locus_464(+).g365.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQSQSGPRAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQMLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLL
+>locus_484(+).g380.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQSQSGPRAKLTWSPLEVLQALQLEMEPMNEQASRAFSRLRCRTQQMLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPWGWCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTAWQDLAGLL
+>locus_328(+).g259.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMETMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIQCIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVTGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSQRTGQ
+>locus_452(-).g355.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMETMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIQCIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVTGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSQRTGQ
+>locus_488(+).g383.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMETMNEQASRAFSRLRCRTQQRLKPYFKRRSLNIQCIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFRNHVIVKEYLITLTGLLRWDVTGHASIQLPVSACCLGFYSGPCALLTQVCLPYQIISKDLWLNPLKYYERMMAPSQRTGQ
+>locus_138(+).g110.t1
+MRTADPEPPQISAFISDEDEDLLNYLINVEVKEVSLPKYRCRLMFSFRSNPYFLNVLIIKQYDVSLAGYRASRSTPILWFWDYERVAPSRRQDTSSISFFNWLSEHTLPGSGKIAEIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_388(-).g304.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKQRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTSNRRLPAWPSAGGGQGWKAMYPASHTPLLQDTGCPVPLQFSGTSIVNEKPRATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERRMAPSEQTGR
+>locus_245(-).g194.t1
+MEAVEQVGEVEPQSKAKAKPEEEQPVQQEQAQSGPGAKFTWSPLEVLQPLQLEMEPMNKQASRAFSRLRCRTQQRQSPISNGEASISGASLRSGSQLLLDPQQFVNHPELSAMIRVQGENILGHMINLKVREVRHPWGCCTISLYFCSNPYFRNHVIVKKYLITLTSNRRLPDTGCPVPLRFSGTSIVNEKPTATGSRTTAPASSTGSLTTVWQDLAGLLSKDLWLNPLENYERKMVPRVDRA
+>locus_517(-).g404.t1
+ICLLLRERERERERERERERERERKKEKEEEEEEEEEEEEEEEEEEEEGEEEEEKRSLSSLNHPDLESNTKPRRAIIQCIPNFWAQAIRNHPEISAIITEEDEDLLNYLINVEVKEVSLPKYRCRLMFFFWSNPYFLNDLIIKQYDVSLAGYRASSSTPILWFWDYERGAPSRWQDTRSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCDGGSPTCMKSRLADWSGPPLPCVPSQIISEDLWPNPLQYYPADAGPRGGSCRGDLLERRSPPAGH
+>locus_193(+).g155.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMETMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAHSERTGR
+>locus_200(+).g162.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMETMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAHSERTGR
+>locus_285(+).g225.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMETMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAHSERTGR
+>locus_339(-).g266.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMETMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAHSERTGR
+>locus_470(+).g369.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQALQLEMETMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTTSDRIAEIITKDLWLNPLKYYERTMAHSERTGR
+>locus_332(+).g261.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMETMNEQASRAFSRPRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENGVREVRHPCGCCTISLYFRSNPYFRNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFYWFSDHSVTISDRIAEIITKDLWLNPLK
+>locus_534(+).g420.t1
+AKAKPEEEEPVQQEQAQSGPGAKFTWYPLEMLQALQLEMEPMNEQASRAFSRLRFRTRQRLKPYFEQRSLNIRRIPGFWLTAVREVRRLWGCCNTSLCFRSNPYFCNHVIVNEYLITLTGYRVFRATPIQWSQHCEQEAYSHRHQDSSPSFFYGFSDHSVGEAGKIAEIISKDLWLNPLKYSERMMAPSERTGR
+>locus_244(-).g193.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAQPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRVKRKISRLRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIIKQYDVSLAGYRASRSTPILWFWDYERGAPSRRQDTSSISFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADWSGPPLPCVPSQIISEDLWPNPLQYYPADSGPRGGSCRGDLLERRSPPAGH
+>locus_539(-).g424.t1
+MEAVKQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKFTWSPLEVLQALQLEMEPMNEQASRAFFRLRCRTRQRLKPYFKRRSLNMQRIPAFWLTALSLRVEEQDHKEHETVQENVVREVRHPWGCCTISLYFRSNPYFHNHVIVKEYLITLTSNRRLPAWASAGGGQGCKAMCPASHTPLLQDTGCPVPLQFSGTSIVNEKPTATGSRTAVPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLKNYERTMAPSEQTGR
+>locus_299(-).g235.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEGKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSTESARASRANLQVKRKTSRRRKPILECRRAITQCIPNFWAQVVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAAFQLPSCKVQGLYSTPILWFWDYEHGAPSRRQDTSSISFFNWLSEHTLPGSGKIAEVIDTALATVRKCDGGIPTCMKSRLADWSGPALPCVPSQIISEDLWPNPLQYYPEDAGP
+>locus_412(-).g322.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEGKPEEQRAEPGPSGTSTRPTLEVLAALQVQLSTESARASRANLQVKRKTSRRRKPILECRRAITQCIPNFWAQVVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAAFQLPSCKVQGLYSTPILWFWDYEHGAPSRRQDTSSISFFNWLSEHTLPGSGKIAEVIDTALATVRKCDGGIPTCMKSRLADWSGPALPCVPSQIISEDLWPNPLQYYPEDAGP
+>locus_147(-).g116.t1
+GGEVHHGGSGTGGRGGASVQGQSKARRRGASAAGAGPVRARGQVTWSPLEVLLAVQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKPRSLNIWRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFRSNPYFCNHVIVKEYLITLTGYRLSRATPIQWYQHCEREVYSHRLQDSSASFFHWFSDHSVAASGRIAEIISKDLWLNPLKYYERTMAPSERTGW
+>locus_259(-).g207.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTSNRRLPAWPSAGGGQGWKAMCPASHTPLLQDTGCPVPLQFSGTSIVNEKPTATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPRIRQD
+>locus_507(-).g395.t1
+MEAVEQVGEVEPQSKAKAKPEEEEPVQQEQAQSGPGAKLTWSPLEVLQPLQLEMEPMNEQASRAFSRLRCRTRQRLKPYFKRRSLNIRRIPGFWLTAVSLRVEEQDHKEHGTVQENVVREVRHPWGCCTISLYFCSNPYFHNHVIVKEYLITLTSNRRLPAWPSAGGGQGWKAMCPASHTPLLQDTGCPVPLQFSGTSIVNEKPTATGSRTAAPASSTGSLTTVWQNLAGLLWWDVTGHIISKDLWLNPLENYERTMAPRIRQD
+>locus_405(+).g317.t1
+MDLLSQVVEAEAGDKMSAAEEAESQVEAEAKPEEQRAEPGPSGTSTWPTLEVLAALQVQLSIESARASRAYLRVKRKTSRRRKPILECRRAIIQCIPNFWAQAIRNHPQISAIITEEDEDLLNYLINVEVKEVSLPKYRCKLMFYFRSNPYFLNDLIVKQYDVSLAGYRASKSTPVLWFWDYERGAPSRRRDTSSVSFFNWLSEHTLPGSGKIAEVIDTALATVRKCNGGSPTCLKSRVADSSGPPLPCVPSQIISEDLWPNPLQFYPADSGPRGGSCRGDLLERRSPPAGH
